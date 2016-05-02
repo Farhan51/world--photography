@@ -1,0 +1,17 @@
+.[margin:0;padding:0;]
+body {font-family:arial; font-size:14px;color:#000;}
+.main{display:block;overflow:hidden;margin:20px auto;}
+.header{}
+.mainmenu{background:Gray; overflow:hidden; margin-top:10px;}
+.mainmenu ul{margin:0; padding:0; list-style:none;}
+.mainmenu ul li{float: left; border-right:2px solid #ededed;}
+.mainmenu ul li a{display:block; padding:20px; text-decoration:none; color:#ffffff;}
+.mainmenu ul li a:hover{background:#EDE275;}
+.maincontent{overflow:hidden; margin-top:20px;}
+.content{float:left; width:600px;}
+.sidebar{float:right; width:330px;}
+.sidebar ul {margin:0; padding:0; list-style:none; }
+.sidebar ul li{border-bottom:2px solid #EDE275;}
+.sidebar ul li a{display:block;text-decoration:none; padding: 10px;color:white;}
+.sidebar ul li a:hover {background: Gray;}
+.footer{background:Gray;color:white;padding:10px;}
